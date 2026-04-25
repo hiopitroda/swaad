@@ -1,0 +1,10 @@
+{
+  "name": "Culinary Mentor AI",
+  "description": "An intelligent kitchen assistant that discovers recipes from your ingredients and helps you master professional cooking concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered recipe generation",
+    "Tailored cooking education",
+    "Ingredient-based search"
+  ]
+}
